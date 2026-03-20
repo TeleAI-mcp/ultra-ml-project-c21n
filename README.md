@@ -1,2 +1,3 @@
-# ultra-ml-project-c21n
-Automated issue comment bot repository
+# Ultra Ml Project C21N
+
+Automated issue comment bot repository.
